@@ -1,4 +1,5 @@
 # vscode (template from Github)
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
