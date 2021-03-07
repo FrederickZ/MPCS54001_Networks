@@ -1,0 +1,20 @@
+Student: Yuming Zhu
+
+Compiles, starts, and binds to a UDP port: 5/5 
+Sends file correctly during read requests: 15/15 
+Receives file correctly during write requests: 15/15 
+Uses separate ephemeral port for file transfers: 10/10 
+Retransmits data blocks after timeouts: 10/10
+Retransmits acknowledgements after timeouts: 10/10 
+Handles duplicate data blocks: 5/5 
+Handles duplicate acknowledgements: 5/5 
+Handles multiple RRQ / WRQ requests in succession without restarting: 5/5 
+Either spawns new thread, forks new process, or asynchronously handles TFTP client requests to support multiple simultaneous file transfers: 5/5 
+Exits with informational message upon receiving error message: 5/5 
+
+Style points, grader discretion: 7/10 
+
+Your read and write methods could use more inline comments.  Otherwise great job!
+
+
+Total: 97/100
