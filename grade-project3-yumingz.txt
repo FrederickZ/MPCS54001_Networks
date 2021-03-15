@@ -1,0 +1,17 @@
+Student: yumingz
+
+Starts/Runs: 5/5 
+Sends ping requests over UDP to server: 10/10
+Receives ping replies over UDP from server: 10/10
+Uses correct ping message format: 10/10 
+Sets correct checksum for outgoing ping requests: 5/5
+Verifies checksum for incoming ping replies: 5/5 
+Waits correct time interval between sending ping requests: 10/10
+Times out correctly if reply not received within specified timeout: 10/10 
+Print individual statistics as replies are received: 10/10
+Print aggregate packet loss statistics: 5/5
+Print aggregate round trip time statistics: 10/10 
+
+Style points, grader discretion: 10/10
+
+Total: 100/100
