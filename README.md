@@ -1,5 +1,5 @@
-# UChicago MPCS54001 Networks (Winter 2021)
-### Frederick Y. Zhu
+# MPCS54001 Networks
+Three networked applications for UChicago MPCS54001 Networks
 
 ## Project1: TCP-based client and server
 The client will send a line of text (i.e., a string ending with “\n”) to the server over TCP and the server will echo
