@@ -66,12 +66,3 @@
         10 transmitted, 2 received 80% loss, time 7537ms (TIMEOUT)
         rtt min/avg/max = 77/575/325
         ``` 
-
-
-
-
-
-
-
-
-
